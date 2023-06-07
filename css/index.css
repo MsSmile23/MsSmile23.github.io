@@ -1,0 +1,57 @@
+html {
+  background-image: url("09a996345cc7f63bf4f753b4041a191a.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Content {
+  font-size: xx-large;
+  color: darkgoldenrod;
+  background-color: rgb(7, 6, 37);
+  display: inline-block;
+  font-family: fantasy;
+  border: rgb(0, 0, 255) 4px solid;
+  text-decoration: underline;
+}
+
+.loverboy {
+  text-align: center;
+}
+
+.sign {
+  font-size: 30px;
+  text-align: center;
+  background-color: blanchedalmond;
+  display: inline-block;
+  border: rgb(255, 242, 0) 4px solid;
+  font-family: fantasy;
+}
+
+.Makro {
+  font-size: 30px;
+  text-align: center;
+  background-color: blanchedalmond;
+  display: inline-block;
+  font-family: fantasy;
+  border: rgb(255, 242, 0) 4px solid;
+}
+
+#wrapper {
+  text-align: center;
+}
+
+.Imp {
+  font-size: 30px;
+  text-align: center;
+  color: darkgoldenrod;
+  background-color: rgb(7, 6, 37);
+  display: inline-block;
+  font-family: fantasy;
+  border: rgb(0, 0, 255) 4px solid;
+  text-decoration: underline;
+}
